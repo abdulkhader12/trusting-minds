@@ -1,0 +1,95 @@
+:root { 
+  --black: #000000;
+  --cultured-pearl: #f5f5f5;
+  --governor-bay: #3734a9;
+  --white: #ffffff;
+ 
+  --font-size-l2: 24px;
+  --font-size-l3: 40px;
+  --font-size-s2: 18px;
+  --font-size-xl: 54px;
+  --font-size-xl2: 30px;
+  --font-size-xs2: 16px;
+  --font-size-xxl2: 32px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-medium-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l3);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l3);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-black-54px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-extra-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l3);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-cultured-pearl-16px {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 700;
+}

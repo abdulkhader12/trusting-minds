@@ -1,0 +1,1031 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 6000px;
+  width: 1404px;
+}
+
+.frame-1 .main-page {
+  align-items: center;
+  background-color: #fafafb;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  min-height: 6000px;
+  padding: 0.0px 0;
+  width: 1404px;
+}
+
+.frame-1 .navigation {
+  align-items: center;
+  background-color: #e0dfff69;
+  border: 1px none;
+  display: flex;
+  height: 125px;
+  padding: 28px 74.7px;
+  width: 1404px;
+}
+
+.frame-1 .overlap-group3 {
+  align-self: flex-end;
+  height: 54px;
+  margin-left: 25px;
+  position: relative;
+  width: 259px;
+}
+
+.frame-1 .logo {
+  border: 1px none;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.frame-1 .trusting-minds {
+  color: var(--governor-bay);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl2);
+  font-weight: 800;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  width: 250px;
+}
+
+.frame-1 .overlap-group2 {
+  height: 54px;
+  margin-left: 50px;
+  margin-top: 5.0px;
+  position: relative;
+  width: 590px;
+}
+
+.frame-1 .details {
+  border: 1px none;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 520px;
+}
+
+.frame-1 .overlap-group {
+  height: 27px;
+  left: 211px;
+  position: absolute;
+  top: 20px;
+  width: 88px;
+}
+
+.frame-1 .services {
+  border: 1px none;
+  height: 27px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.frame-1 .mind {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 75px;
+}
+
+.frame-1 .about-us-container {
+  height: 35px;
+  left: 111px;
+  position: absolute;
+  top: 7px;
+  width: 122px;
+}
+
+.frame-1 .about-us {
+  height: 27px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.frame-1 .about-us-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 75px;
+}
+
+.frame-1 .body {
+  left: 311px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 75px;
+}
+
+.frame-1 .feedback {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  height: 19px;
+  left: 411px;
+  min-width: 179px;
+  position: absolute;
+  top: 23px;
+}
+
+.frame-1 .sports {
+  letter-spacing: 0;
+  line-height: normal;
+  width: 75px;
+}
+
+.frame-1 .products {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0;
+  width: 75px;
+}
+
+.frame-1 .contact-us {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 178px;
+  margin-top: 15.25px;
+  min-width: 152px;
+  transition: all 0.2s ease;
+}
+
+.frame-1 .contact-us:hover {
+  transform: scale(1.2);
+}
+
+.frame-1 .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--governor-bay);
+  border-radius: 10px;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  min-width: 150px;
+  padding: 9.2px 4.3px;
+}
+
+.frame-1 .contact-us-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  transition: all 0.2s ease;
+  width: 115px;
+}
+
+.frame-1 .contact-us-1:hover {
+  transform: scale(1.2);
+}
+
+.frame-1 .opening-1 {
+  align-items: center;
+  display: flex;
+  height: 421px;
+  margin-right: 37.0px;
+  margin-top: 79px;
+  min-width: 1103px;
+}
+
+.frame-1 .desire2x-1 {
+  height: 125px;
+  margin-bottom: 104.0px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.frame-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-height: 421px;
+  width: 976px;
+}
+
+.frame-1 .overlap-group7 {
+  height: 221px;
+  position: relative;
+  width: 976px;
+}
+
+.frame-1 .associate-with-us-an {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 888px;
+}
+
+.frame-1 .span0 {
+  color: #2b49b3;
+  font-weight: 800;
+}
+
+.frame-1 .span2 {
+  color: #621069;
+  font-weight: 800;
+}
+
+.frame-1 .span4 {
+  color: #427131;
+  font-weight: 800;
+}
+
+.frame-1 .span6 {
+  color: #e95627;
+  font-weight: 800;
+}
+
+.frame-1 .span8 {
+  color: #55180591;
+  font-weight: 800;
+}
+
+.frame-1 .performance2x-1 {
+  height: 125px;
+  left: 851px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 125px;
+}
+
+.frame-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 214px;
+  height: 175px;
+  margin-left: 43px;
+  min-width: 803px;
+}
+
+.frame-1 .mind-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 125px;
+  justify-content: center;
+  min-width: 125px;
+}
+
+.frame-1 .mindicon-22x-1 {
+  height: 133px;
+  margin-bottom: -8px;
+  object-fit: cover;
+  width: 133px;
+}
+
+.frame-1 .body-1 {
+  align-self: flex-end;
+  background-color: var(--white);
+  background-image: url(../img/bodyicon-2x-2-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 125px;
+  width: 125px;
+}
+
+.frame-1 .sports-1 {
+  background-color: var(--white);
+  background-image: url(../img/golf-2x-2-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 125px;
+  width: 125px;
+}
+
+.frame-1 .overlap-group6 {
+  background-color: #efaca39c;
+  height: 640px;
+  margin-top: 100px;
+  position: relative;
+  width: 1404px;
+}
+
+.frame-1 .overlap-group-1 {
+  height: 571px;
+  left: 109px;
+  position: absolute;
+  top: 34px;
+  width: 1295px;
+}
+
+.frame-1 .the-journey-to-the-s {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 16px;
+  width: 513px;
+}
+
+.frame-1 .desireimage1x-1 {
+  height: 571px;
+  left: 344px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 951px;
+}
+
+.frame-1 .and-the-mind-sits-in-the-body {
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 470px;
+  width: 339px;
+}
+
+.frame-1 .the-desire-sits-in-the-mind {
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 290px;
+  width: 331px;
+}
+
+.frame-1 .overlap-group-container {
+  height: 2150px;
+  margin-top: 25px;
+  position: relative;
+  width: 1404px;
+}
+
+.frame-1 .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: #de513f;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 800px;
+  padding: 26px 109px;
+  position: absolute;
+  top: 1350px;
+  width: 1404px;
+}
+
+.frame-1 .body-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 254px;
+  margin-top: 9px;
+  min-width: 1180px;
+}
+
+.frame-1 .body-is-the-master-p {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 195px;
+  min-width: 726px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .body-2 {
+  background-color: var(--white);
+  background-image: url(../img/bodyicon-2x-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 100px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 200px;
+  width: 200px;
+}
+
+.frame-1 .our-programs-intend {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 78px;
+  min-width: 1076px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .with-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 299px;
+  margin-right: 86.74px;
+  margin-top: 18px;
+  min-width: 561px;
+}
+
+.frame-1 .woman-with-measuring {
+  height: 125px;
+  object-fit: cover;
+  width: 109px;
+}
+
+.frame-1 .woman-running-using {
+  height: 125px;
+  object-fit: cover;
+  width: 153px;
+}
+
+.frame-1 .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 87px;
+  margin-right: 11.0px;
+  margin-top: 4px;
+  min-width: 1061px;
+}
+
+.frame-1 .health-and-nutrition {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 87px;
+  min-width: 228px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .weight-gain-loss-program {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 233px;
+  min-height: 87px;
+  min-width: 150px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .hm-heart-know-your-heart-to-be-fit {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 260px;
+  min-height: 87px;
+  min-width: 190px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .overlap-group1 {
+  align-items: center;
+  background-color: #da7f7438;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 174px;
+  height: 174px;
+  margin-top: 28px;
+  min-width: 1180px;
+  padding: 9px 22px;
+}
+
+.frame-1 .our-products-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-top: 2.0px;
+  min-height: 126px;
+  width: 322px;
+}
+
+.frame-1 .our-products {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .our-products-focuses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 66px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .body-component {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 150px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 0 9.1px;
+}
+
+.frame-1 .nutrition-container {
+  height: 149px;
+  position: relative;
+  width: 145px;
+}
+
+.frame-1 .female-nutritionist {
+  height: 125px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.frame-1 .health-nutrition-package {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+}
+
+.frame-1 .overlap-group4-1 {
+  align-items: center;
+  background-color: var(--governor-bay);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 800px;
+  padding: 35px 109px;
+  position: absolute;
+  top: 525px;
+  width: 1404px;
+}
+
+.frame-1 .mind-container {
+  height: 439px;
+  margin-right: 40.65px;
+  position: relative;
+  width: 1101px;
+}
+
+.frame-1 .mind-is-the-master-c {
+  left: 329px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 5px;
+}
+
+.frame-1 .we-at-trusting-minds {
+  left: 157px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 225px;
+}
+
+.frame-1 .mind-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 304px;
+  height: 439px;
+  left: 0;
+  min-width: 1062px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 106px;
+  margin-left: -4px;
+  min-height: 439px;
+  width: 208px;
+}
+
+.frame-1 .overlap-group-2 {
+  height: 208px;
+  position: relative;
+  width: 208px;
+}
+
+.frame-1 .ellipse-1 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 100px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 200px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.frame-1 .mindicon-22x-1-1 {
+  height: 208px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.frame-1 .q6hm-1 {
+  height: 125px;
+  margin-right: 5.7px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.frame-1 .mind-item {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.frame-1 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  margin-right: 69.0px;
+  margin-top: 11px;
+  min-width: 1043px;
+}
+
+.frame-1 .professional-life {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  min-width: 182px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .span1 {
+  color: var(--black);
+}
+
+.frame-1 .relationships {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 297px;
+  min-height: 29px;
+  min-width: 154px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .sports-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 333px;
+  min-height: 29px;
+  min-width: 77px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .overlap-group1-1 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: #4c4ab1;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 203px;
+  height: 174px;
+  margin-top: 50px;
+  min-width: 1180px;
+  padding: 3px 22px;
+}
+
+.frame-1 .our-products-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-top: 14.0px;
+  min-height: 116px;
+  width: 322px;
+}
+
+.frame-1 .mind-component {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 108px;
+}
+
+.frame-1 .notebook-12x-1 {
+  height: 150px;
+  margin-left: -308px;
+  margin-top: -2514px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.frame-1 .overlap-group5 {
+  height: 1831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1404px;
+}
+
+.frame-1 .rectangle-2 {
+  background-color: #ffff5c;
+  border: 1px none;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1404px;
+}
+
+.frame-1 .we-at-trusting-minds-1 {
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 65px;
+  width: 1161px;
+}
+
+.frame-1 .body-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 304px;
+  height: 1597px;
+  left: 206px;
+  min-width: 558px;
+  position: absolute;
+  top: 234px;
+}
+
+.frame-1 .online-nutrition-workshop-12x-1 {
+  align-self: flex-end;
+  height: 125px;
+  object-fit: cover;
+  width: 129px;
+}
+
+.frame-1 .overlap-group-3 {
+  background-color: var(--white);
+  background-image: url(../img/bodyicon-2x-2-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 125px;
+  width: 125px;
+}
+
+.frame-1 .sports-3 {
+  background-color: var(--white);
+  background-image: url(../img/golf-2x-2-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 125px;
+  left: 978px;
+  position: absolute;
+  top: 234px;
+  width: 125px;
+}
+
+.frame-1 .mind-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 62.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 125px;
+  justify-content: center;
+  left: 300px;
+  min-width: 125px;
+  position: absolute;
+  top: 234px;
+}
+
+.frame-1 .sports-4 {
+  left: 974px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 376px;
+}
+
+.frame-1 .mind-4 {
+  left: 316px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 376px;
+}
+
+.frame-1 .body-4 {
+  left: 651px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 376px;
+}
+
+.frame-1 .overlap-group1-2 {
+  align-items: center;
+  background-color: #006400;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  min-height: 800px;
+  padding: 35px 109px;
+  width: 1404px;
+}
+
+.frame-1 .sports-container {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  gap: 129px;
+  margin-left: 22.35px;
+  min-width: 1068px;
+}
+
+.frame-1 .sports-5 {
+  background-color: var(--white);
+  background-image: url(../img/golf-2x-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 100px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 200px;
+  width: 200px;
+}
+
+.frame-1 .in-sports-both-mind {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 195px;
+  min-width: 739px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .our-programs-focuses {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 44.0px;
+  margin-top: 21px;
+  min-height: 78px;
+  min-width: 956px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .x-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 414px;
+  margin-left: 22.37px;
+  margin-top: 12px;
+  min-width: 764px;
+}
+
+.frame-1 .imgmentalcoaching2x-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 171px;
+}
+
+.frame-1 .golf-playing-by-men-12x-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 179px;
+}
+
+.frame-1 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 369px;
+  height: 87px;
+  margin-left: 49.0px;
+  min-width: 811px;
+}
+
+.frame-1 .mental-coaching-for-all-sports {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 87px;
+  min-width: 190px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .golf-syntax-patente {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 87px;
+  min-width: 252px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.frame-1 .overlap-group2-1 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: #2e752e;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 166px;
+  height: 174px;
+  margin-top: 18px;
+  min-width: 1180px;
+  padding: 0 22px;
+}
+
+.frame-1 .our-products-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  min-height: 126px;
+  width: 322px;
+}
+
+.frame-1 .sports-component {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 148px;
+  overflow: hidden;
+  width: 165px;
+}
+
+.frame-1 .overlap-group-4 {
+  height: 147px;
+  position: relative;
+  width: 167px;
+}
+
+.frame-1 .sports-player-playing-football-12x-1 {
+  height: 125px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.frame-1 .ground-unit-reality {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+}
